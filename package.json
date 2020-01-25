@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server/server.js",
     "db": "~/mongo/bin/mongod --dbpath ~/mongo-data/",
-    "db-win": "cd c:\\Program Files\\MongoDB\\Server\\4.2\\bin && mongod --dbpath=c:\\data\db",
+    "db-win": "cd c:\\Program Files\\MongoDB\\Server\\4.2\\bin && mongod --dbpath=c:\\data\\db",
     "test": "export NODE_ENV=test || SET \"NODE_ENV=test\" && mocha server/**/*.test.js",
     "test-watch": "node_modules/nodemon/bin/nodemon.js --exec 'npm test'"
   },
