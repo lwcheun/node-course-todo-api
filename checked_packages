@@ -1,0 +1,57 @@
+Package       Current   Wanted  Latest  Location       Package Type     Homepage
+body-parser    1.18.3   1.19.0  1.19.0  node-todo-api  dependencies     https://github.com/expressjs/body-parser#readme
+crypto-js     3.1.9-1    3.3.0   4.0.0  node-todo-api  dependencies     http://github.com/brix/crypto-js
+expect         24.1.0   24.9.0  25.1.0  node-todo-api  devDependencies  https://github.com/facebook/jest#readme
+express        4.16.4   4.17.1  4.17.1  node-todo-api  dependencies     http://expressjs.com/
+jsonwebtoken    8.4.0    8.5.1   8.5.1  node-todo-api  dependencies     https://github.com/auth0/node-jsonwebtoken#readme
+mocha           6.1.4    6.2.2   7.1.0  node-todo-api  devDependencies  https://mochajs.org/
+mongodb        3.1.13    3.5.4   3.5.4  node-todo-api  dependencies     https://github.com/mongodb/node-mongodb-native
+mongoose        5.7.5    5.9.3   5.9.3  node-todo-api  dependencies     https://mongoosejs.com
+nodemon       1.18.10   1.19.4   2.0.2  node-todo-api  devDependencies  http://nodemon.io
+supertest       3.4.2    3.4.2   4.0.2  node-todo-api  devDependencies  https://github.com/visionmedia/supertest#readme
+validator     10.11.0  10.11.0  12.2.0  node-todo-api  dependencies     https://github.com/chriso/validator.js
+
+Package: body-parser | dist-tags = { latest: '1.19.0' }
+time.modified = '2019-11-29T09:32:43.816Z'
+
+Package: crypto-js | dist-tags = { latest: '4.0.0' }
+time.modified = '2020-02-12T11:57:57.950Z'
+
+Package: expect | dist-tags =  
+{
+  latest: '25.1.0',
+  test: '21.3.0-beta.15',
+  beta: '24.2.0-alpha.0',
+  next: '25.0.0'
+}
+time.modified = '2020-01-22T01:00:19.641Z'
+
+Package: express | dist-tags = { latest: '4.17.1', next: '5.0.0-alpha.7' }
+time.modified = '2020-02-27T05:39:22.205Z'
+
+Package: jsonwebtoken | dist-tags = { latest: '8.5.1' }
+time.modified = '2019-09-21T18:44:13.956Z'
+
+Package: mocha | dist-tags = { latest: '7.1.0', esm: '7.0.0-esm1' }
+time.modified = '2020-02-26T07:31:28.068Z'
+
+Package: mongodb | dist-tags = { latest: '3.5.4', stable: '3.5.2' }
+time.modified = '2020-02-25T18:46:46.369Z'
+
+Package: mongoose | dist-tags = { latest: '5.9.3', unstable: '3.9.7', legacy: '4.13.19' }
+time.modified = '2020-03-02T20:52:52.620Z'
+
+Package: nodemon | dist-tags =  
+{
+  latest: '2.0.2',
+  debug: '2.0.1-alpha.3',
+  'debug-1268': '1.15.2-alpha.2'
+}
+time.modified = '2019-12-11T14:24:28.198Z'
+
+Package: supertest | dist-tags = { latest: '4.0.2', next: '5.0.0-0' }
+time.modified = '2019-10-02T10:51:00.144Z'
+
+Package: validator | dist-tags = { latest: '12.2.0' }
+time.modified = '2020-01-25T02:51:07.733Z'
+
